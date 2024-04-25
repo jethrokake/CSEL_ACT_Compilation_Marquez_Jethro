@@ -14,7 +14,7 @@
     <li><a href="lecture/studentsper_logistic.ipynb">Logistic Regression</a></li>
 </ul>
         
-    </div>
+</div>
 
 <div>
   <h2 style="font-family: sans-serif;"> Activities and Exercices/Midterms </h2>
