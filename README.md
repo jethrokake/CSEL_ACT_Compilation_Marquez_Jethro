@@ -2,11 +2,13 @@
 <div>
   <h1>Introduction:</h1>
   Welcome to My "Activities and Project Compilation," a detailed showcase of the various initiatives and projects undertaken by Me team over the past months. This compilation serves as both a  reflection of my collective efforts and a roadmap of the progress I have made towards achieving My strategic goals. Within these pages, you will find a diverse array of activities ranging from small-scale assignments to major projects, each carefully executed and documented.
+<hr>
     
 </div>
 
 <div>
    <h2 style="font-family: sans-serif;"> Lectures and activities Done on Laborotory </h2>
+  <hr>
 <ul>
     <li><a href="lecture/Data_Manipulation.ipynb">Data Manipulation</a></li>
     <li><a href="lecture/Student_grades.ipynb">Linear Regression</a></li>
@@ -18,6 +20,7 @@
 
 <div>
   <h2 style="font-family: sans-serif;"> Activities and Exercices/Midterms </h2>
+  <hr>
  <ul>
     <li><a href="activities/Detecting_Criminal_Activity.ipynb">Detective/Finding Criminal Activities</a></li>
     <li><a href="activities/multiple_linear_regression_act.ipynb">Multiple Linear Regression Activities</a></li>
