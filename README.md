@@ -6,9 +6,8 @@
 </div>
 
 <div>
-  
-        <h2 style="font-family: sans-serif;"> Lectures and activities Done on Laborotory </h2>
-       <ul>
+   <h2 style="font-family: sans-serif;"> Lectures and activities Done on Laborotory </h2>
+<ul>
     <li><a href="lecture/Data_Manipulation.ipynb">Data Manipulation</a></li>
     <li><a href="lecture/Student_grades.ipynb">Linear Regression</a></li>
     <li><a href="lecture/sales_data.ipynb">Data Visualization on Linear Regression</a></li>
